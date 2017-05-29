@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30cc4626-5d26-459e-8e24-d5f36b94856e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DataLoader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/uptake/DataLoader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataModel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/uptake/DataModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="788" column="29" lean-forward="false" selection-start-line="788" selection-start-column="29" selection-end-line="788" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#42#1" expanded="false" />
+                <element signature="e#144#281#0" expanded="false" />
+                <element signature="e#311#429#0" expanded="false" />
+                <element signature="e#458#670#0" expanded="false" />
+                <element signature="e#702#1558#0" expanded="false" />
+                <element signature="e#702#893#1" expanded="false" />
+                <element signature="e#1590#2168#0" expanded="false" />
+                <element signature="e#1590#1659#0" expanded="false" />
+                <element signature="e#2199#2597#0" expanded="false" />
+                <element signature="e#2624#3207#0" expanded="false" />
+                <element signature="e#3209#3318#1" expanded="false" />
+                <element signature="e#3354#9278#0" expanded="false" />
+                <element signature="e#3354#3375#0" expanded="false" />
+                <element signature="e#3417#3704#1" expanded="false" />
+                <element signature="e#3709#3770#0" expanded="false" />
+                <element signature="e#4112#4144#0" expanded="false" />
+                <element signature="e#4266#4820#0" expanded="false" />
+                <element signature="e#4674#4768#0" expanded="false" />
+                <element signature="e#4961#5017#0" expanded="false" />
+                <element signature="e#5738#5817#0" expanded="false" />
+                <element signature="e#5865#5902#0" expanded="false" />
+                <element signature="e#6117#6142#0" expanded="false" />
+                <element signature="e#6381#6515#1" expanded="false" />
+                <element signature="e#6639#6676#0" expanded="false" />
+                <element signature="e#6844#6901#0" expanded="false" />
+                <element signature="e#7143#7227#0" expanded="false" />
+                <element signature="e#7281#7308#0" expanded="false" />
+                <element signature="e#7358#7523#1" expanded="false" />
+                <element signature="e#7807#7838#0" expanded="false" />
+                <element signature="e#8033#8088#0" expanded="false" />
+                <element signature="e#8199#8378#0" expanded="false" />
+                <element signature="e#8558#8593#0" expanded="false" />
+                <element signature="e#8635#8936#1" expanded="false" />
+                <element signature="e#9281#9325#1" expanded="false" />
+                <element signature="e#10081#10367#0" expanded="false" />
+                <element signature="e#10370#10396#1" expanded="false" />
+                <element signature="e#10910#11329#0" expanded="false" />
+                <element signature="e#11405#11713#0" expanded="false" />
+                <element signature="e#11786#12231#0" expanded="false" />
+                <element signature="e#12293#12585#0" expanded="false" />
+                <element signature="e#12588#12626#1" expanded="false" />
+                <element signature="e#14959#15037#0" expanded="false" />
+                <element signature="e#16576#16624#1" expanded="false" />
+                <element signature="e#16664#16760#1" expanded="false" />
+                <element signature="e#16765#16802#0" expanded="false" />
+                <element signature="e#16843#17161#1" expanded="false" />
+                <element signature="e#17649#17691#1" expanded="false" />
+                <element signature="e#17729#17928#0" expanded="false" />
+                <element signature="e#17931#17973#1" expanded="false" />
+                <element signature="e#18017#18228#0" expanded="false" />
+                <element signature="e#18230#18272#1" expanded="false" />
+                <element signature="e#18317#18530#0" expanded="false" />
+                <element signature="e#18574#18794#0" expanded="false" />
+                <element signature="e#18835#19124#0" expanded="false" />
+                <element signature="e#19168#19467#0" expanded="false" />
+                <element signature="e#19510#19821#0" expanded="false" />
+                <element signature="e#19866#20183#0" expanded="false" />
+                <element signature="e#20227#20541#0" expanded="false" />
+                <element signature="e#20584#20886#0" expanded="false" />
+                <element signature="e#20929#21225#0" expanded="false" />
+                <element signature="e#21269#21577#0" expanded="false" />
+                <element signature="e#21623#21925#0" expanded="false" />
+                <element signature="e#21969#22277#0" expanded="false" />
+                <element signature="e#22317#22616#0" expanded="false" />
+                <element signature="e#22660#22968#0" expanded="false" />
+                <element signature="e#23012#23320#0" expanded="false" />
+                <element signature="e#23364#23672#0" expanded="false" />
+                <element signature="e#23714#24016#0" expanded="false" />
+                <element signature="e#24058#24360#0" expanded="false" />
+                <element signature="e#24404#24715#0" expanded="false" />
+                <element signature="e#24717#24796#1" expanded="false" />
+                <element signature="e#24837#26001#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Util.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/uptake/Util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>changeContact</find>
+      <find>random_state</find>
+      <find>drop</find>
+      <find>group</find>
+      <find>analyzepDaysEffect</find>
+      <find>analyzepMonthEffect</find>
+      <find>employed</find>
+      <find>poutcome</find>
+      <find>previous</find>
+      <find>updatesc</find>
+      <find>var</find>
+      <find>predictusingla</find>
+      <find>binar</find>
+      <find>rmse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>accuracy</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com/uptake/Test.py" />
+        <option value="$PROJECT_DIR$/com/uptake/Util.py" />
+        <option value="$PROJECT_DIR$/com/uptake/DataLoader.py" />
+        <option value="$PROJECT_DIR$/com/uptake/DataModel.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UptakeAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UptakeAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UptakeAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UptakeAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UptakeAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UptakeAnalysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uptake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="RunManager" selected="Python.Test">
+    <configuration default="false" name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/uptake" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/uptake/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="UptakeAnalysis" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30cc4626-5d26-459e-8e24-d5f36b94856e" name="Default" comment="" />
+      <created>1492457065370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492457065370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03513909" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07401575" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com/uptake/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/pandas/tools/plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="3669" column="8" lean-forward="false" selection-start-line="3669" selection-start-column="8" selection-end-line="3669" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1118" column="8" lean-forward="false" selection-start-line="1118" selection-start-column="8" selection-end-line="1118" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/uptake/Util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/uptake/DataLoader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/linear_model/coordinate_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="960" column="20" lean-forward="true" selection-start-line="960" selection-start-column="20" selection-end-line="960" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="1571" column="4" lean-forward="false" selection-start-line="1571" selection-start-column="4" selection-end-line="1571" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/uptake/DataModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="788" column="29" lean-forward="false" selection-start-line="788" selection-start-column="29" selection-end-line="788" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#42#1" expanded="false" />
+            <element signature="e#144#281#0" expanded="false" />
+            <element signature="e#311#429#0" expanded="false" />
+            <element signature="e#458#670#0" expanded="false" />
+            <element signature="e#702#1558#0" expanded="false" />
+            <element signature="e#702#893#1" expanded="false" />
+            <element signature="e#1590#2168#0" expanded="false" />
+            <element signature="e#1590#1659#0" expanded="false" />
+            <element signature="e#2199#2597#0" expanded="false" />
+            <element signature="e#2624#3207#0" expanded="false" />
+            <element signature="e#3209#3318#1" expanded="false" />
+            <element signature="e#3354#9278#0" expanded="false" />
+            <element signature="e#3354#3375#0" expanded="false" />
+            <element signature="e#3417#3704#1" expanded="false" />
+            <element signature="e#3709#3770#0" expanded="false" />
+            <element signature="e#4112#4144#0" expanded="false" />
+            <element signature="e#4266#4820#0" expanded="false" />
+            <element signature="e#4674#4768#0" expanded="false" />
+            <element signature="e#4961#5017#0" expanded="false" />
+            <element signature="e#5738#5817#0" expanded="false" />
+            <element signature="e#5865#5902#0" expanded="false" />
+            <element signature="e#6117#6142#0" expanded="false" />
+            <element signature="e#6381#6515#1" expanded="false" />
+            <element signature="e#6639#6676#0" expanded="false" />
+            <element signature="e#6844#6901#0" expanded="false" />
+            <element signature="e#7143#7227#0" expanded="false" />
+            <element signature="e#7281#7308#0" expanded="false" />
+            <element signature="e#7358#7523#1" expanded="false" />
+            <element signature="e#7807#7838#0" expanded="false" />
+            <element signature="e#8033#8088#0" expanded="false" />
+            <element signature="e#8199#8378#0" expanded="false" />
+            <element signature="e#8558#8593#0" expanded="false" />
+            <element signature="e#8635#8936#1" expanded="false" />
+            <element signature="e#9281#9325#1" expanded="false" />
+            <element signature="e#10081#10367#0" expanded="false" />
+            <element signature="e#10370#10396#1" expanded="false" />
+            <element signature="e#10910#11329#0" expanded="false" />
+            <element signature="e#11405#11713#0" expanded="false" />
+            <element signature="e#11786#12231#0" expanded="false" />
+            <element signature="e#12293#12585#0" expanded="false" />
+            <element signature="e#12588#12626#1" expanded="false" />
+            <element signature="e#14959#15037#0" expanded="false" />
+            <element signature="e#16576#16624#1" expanded="false" />
+            <element signature="e#16664#16760#1" expanded="false" />
+            <element signature="e#16765#16802#0" expanded="false" />
+            <element signature="e#16843#17161#1" expanded="false" />
+            <element signature="e#17649#17691#1" expanded="false" />
+            <element signature="e#17729#17928#0" expanded="false" />
+            <element signature="e#17931#17973#1" expanded="false" />
+            <element signature="e#18017#18228#0" expanded="false" />
+            <element signature="e#18230#18272#1" expanded="false" />
+            <element signature="e#18317#18530#0" expanded="false" />
+            <element signature="e#18574#18794#0" expanded="false" />
+            <element signature="e#18835#19124#0" expanded="false" />
+            <element signature="e#19168#19467#0" expanded="false" />
+            <element signature="e#19510#19821#0" expanded="false" />
+            <element signature="e#19866#20183#0" expanded="false" />
+            <element signature="e#20227#20541#0" expanded="false" />
+            <element signature="e#20584#20886#0" expanded="false" />
+            <element signature="e#20929#21225#0" expanded="false" />
+            <element signature="e#21269#21577#0" expanded="false" />
+            <element signature="e#21623#21925#0" expanded="false" />
+            <element signature="e#21969#22277#0" expanded="false" />
+            <element signature="e#22317#22616#0" expanded="false" />
+            <element signature="e#22660#22968#0" expanded="false" />
+            <element signature="e#23012#23320#0" expanded="false" />
+            <element signature="e#23364#23672#0" expanded="false" />
+            <element signature="e#23714#24016#0" expanded="false" />
+            <element signature="e#24058#24360#0" expanded="false" />
+            <element signature="e#24404#24715#0" expanded="false" />
+            <element signature="e#24717#24796#1" expanded="false" />
+            <element signature="e#24837#26001#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

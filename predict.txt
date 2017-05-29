@@ -1,0 +1,12 @@
+ inside main method
+doing graphical analysis
+('SVM score on training set: ', 0.8980582524271845)
+('Randomforest score on training set: ', 0.9021035598705501)
+('KNN score on training set: ', 0.8883495145631068)
+('Gradient Descent regression score on training set: ', 0.9077669902912622)
+('Logistic regression score on training set: ', 0.9085760517799353)
+('NaiveBayes score on training set: ', 0.8648867313915858)
+models and scores:
+['svm', 'rforest', 'knn', 'sgd', 'lreg', 'nb']
+[0.8980582524271845, 0.9021035598705501, 0.8883495145631068, 0.9077669902912622, 0.9085760517799353, 0.8648867313915858]
+('best model is:', 'lreg')
