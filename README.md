@@ -1,2 +1,2 @@
 # DataAnalysis
-a collection of sample data analysis
+this repository contains a collection of sample data analysis.
